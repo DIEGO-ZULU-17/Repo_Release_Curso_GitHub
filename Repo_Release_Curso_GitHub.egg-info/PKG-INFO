@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Repo_Release_Curso_GitHub
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/DIEGO-ZULU-17/Repo_Release_Curso_GitHub.git
+Author: Diego Zuluaga
+Author-email: diegozulu17@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

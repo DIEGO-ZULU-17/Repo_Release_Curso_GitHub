@@ -1,0 +1,7 @@
+README.md
+setup.py
+Repo_Release_Curso_GitHub/__init__.py
+Repo_Release_Curso_GitHub.egg-info/PKG-INFO
+Repo_Release_Curso_GitHub.egg-info/SOURCES.txt
+Repo_Release_Curso_GitHub.egg-info/dependency_links.txt
+Repo_Release_Curso_GitHub.egg-info/top_level.txt
